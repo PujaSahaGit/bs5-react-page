@@ -1,0 +1,12 @@
+npx create-react-app-bs5-react-page(error dile 2nd command die suru krte hbe)
+
+cd .\bs5-react-page\
+yarn add bootstrap react-bootstrap(error dile yarn install kina chk krte hbe..nyto youtube(https://youtu.be/HyJ89KCB7x8?si=wFQ_zB0bd0Il3C54) dkhe install krte hbe)
+yarn start
+npm install -g mdb-cli
+mdb register
+mdb login(username-pujasaha28 password-28pujasaha email-pojasaha2564@gmail.com)
+mdb publish(frontend option)
+npm
+
+http://localhost:3000/
